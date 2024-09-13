@@ -1,5 +1,6 @@
+# ExploreElite: Your Travel Companion
 ## Project Overview
-**beach** is a user-friendly travel website designed to offer essential information for travelers and travel guides. Built with **HTML** and **CSS**, this simple yet effective website provides a seamless browsing experience. It’s an ideal resource for users looking to plan their next adventure with ease.
+**ExploreElite** is a user-friendly travel website designed to offer essential information for travelers and travel guides. Built with **HTML** and **CSS**, this simple yet effective website provides a seamless browsing experience. It’s an ideal resource for users looking to plan their next adventure with ease.
 
 ## Features
 - **Responsive Design:** The site adapts to different screen sizes, ensuring a smooth experience across devices.
