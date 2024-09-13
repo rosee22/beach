@@ -1,8 +1,15 @@
-ABOUT ME##
-I have a passion for learning coding and have recently begun my studies in Computer Science.
-I enjoy exploring new ideas and am currently focusing on HTML, CSS, Java, and SQL and python
-I am excited to work on new projects and expand my skills.
+## Project Overview
+**beach** is a user-friendly travel website designed to offer essential information for travelers and travel guides. Built with **HTML** and **CSS**, this simple yet effective website provides a seamless browsing experience. It’s an ideal resource for users looking to plan their next adventure with ease.
 
+## Features
+- **Responsive Design:** The site adapts to different screen sizes, ensuring a smooth experience across devices.
+- **Intuitive Navigation:** Users can quickly access travel tips, destination guides, and helpful information.
+- **Content-Rich:** The site offers practical and relevant details for travelers.
+- **Browser Compatibility:** Fully functional on all major web browsers.
+
+## Technologies Used
+- **HTML**: For the website structure and content layout.
+- **CSS**: For styling and visual design.
 
 
 
